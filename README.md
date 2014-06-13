@@ -14,6 +14,8 @@ TDLR: run `make test`
 
   - marionette-mocha.opts : default flags passed to marionette-mocha
 
+  - mocha.opts : default flags passed to mocha
+
   - firefox : downloaded by the firefox make target this is the binary
               used to run your tests.
 
